@@ -80,35 +80,35 @@ export const projectsData = [
     description:
       'Displays currently available or newly released dates for NEXUS Interviews. Reducing wait times by up to ~90% by allowing users to secure cancelled or postponed interviews quickly.',
     tags: ['Python', 'Django'],
-    imageUrl: speedyNexus,
+    // imageUrl: ,
   },
   {
     title: 'Price Comparison Web Scraper',
     description:
       'Created a community website for Amazon Games published game Lost Ark, over 1 million page views and 10,000 users monthly. Utilizing React, Next.js and front-end libraries such as MUI, Fontawesome Icons to create tools for users to enhance their journey from scratch supporting Mobile and Desktop Users.',
     tags: ['React', 'Next.js', 'Tailwind', 'MUI', 'Single Page Application'],
-    imageUrl: lostMokokos,
+    // imageUrl: ,
   },
   {
     title: '2D Asteroid Mobile Game',
     description:
       'Created a community website for Amazon Games published game Lost Ark, over 1 million page views and 10,000 users monthly. Utilizing React, Next.js and front-end libraries such as MUI, Fontawesome Icons to create tools for users to enhance their journey from scratch supporting Mobile and Desktop Users.',
     tags: ['React', 'Next.js', 'Tailwind', 'MUI', 'Single Page Application'],
-    imageUrl: lostMokokos,
+    // imageUrl: ,
   },
   {
     title: 'Movie Rating Application',
     description:
       'Created a community website for Amazon Games published game Lost Ark, over 1 million page views and 10,000 users monthly. Utilizing React, Next.js and front-end libraries such as MUI, Fontawesome Icons to create tools for users to enhance their journey from scratch supporting Mobile and Desktop Users.',
     tags: ['React', 'Next.js', 'Tailwind', 'MUI', 'Single Page Application'],
-    imageUrl: lostMokokos,
+    // imageUrl: ,
   },
   {
     title: 'AWS Facial Recognition ',
     description:
       'Created a community website for Amazon Games published game Lost Ark, over 1 million page views and 10,000 users monthly. Utilizing React, Next.js and front-end libraries such as MUI, Fontawesome Icons to create tools for users to enhance their journey from scratch supporting Mobile and Desktop Users.',
     tags: ['React', 'Next.js', 'Tailwind', 'MUI', 'Single Page Application'],
-    imageUrl: lostMokokos,
+    // imageUrl: ,
   },
 
 ] as const;
