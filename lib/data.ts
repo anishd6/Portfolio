@@ -1,8 +1,7 @@
 import React from 'react';
 import { FaReact, FaSalesforce, FaTiktok } from 'react-icons/fa';
 import { LuGraduationCap } from 'react-icons/lu';
-//import speedyNexus from '@/public/speedynexus.png';
-//import lostMokokos from '@/public/lostmokokos.png';
+import anish from '@/public/anish.png';
 
 export const links = [
   {
@@ -80,35 +79,35 @@ export const projectsData = [
     description:
       'Displays currently available or newly released dates for NEXUS Interviews. Reducing wait times by up to ~90% by allowing users to secure cancelled or postponed interviews quickly.',
     tags: ['Python', 'Django'],
-    // imageUrl: ,
+    imageUrl: anish,
   },
   {
     title: 'Price Comparison Web Scraper',
     description:
       'Created a community website for Amazon Games published game Lost Ark, over 1 million page views and 10,000 users monthly. Utilizing React, Next.js and front-end libraries such as MUI, Fontawesome Icons to create tools for users to enhance their journey from scratch supporting Mobile and Desktop Users.',
     tags: ['React', 'Next.js', 'Tailwind', 'MUI', 'Single Page Application'],
-    // imageUrl: ,
+    imageUrl: anish,
   },
   {
     title: '2D Asteroid Mobile Game',
     description:
       'Created a community website for Amazon Games published game Lost Ark, over 1 million page views and 10,000 users monthly. Utilizing React, Next.js and front-end libraries such as MUI, Fontawesome Icons to create tools for users to enhance their journey from scratch supporting Mobile and Desktop Users.',
     tags: ['React', 'Next.js', 'Tailwind', 'MUI', 'Single Page Application'],
-    // imageUrl: ,
+    imageUrl: anish,
   },
   {
     title: 'Movie Rating Application',
     description:
       'Created a community website for Amazon Games published game Lost Ark, over 1 million page views and 10,000 users monthly. Utilizing React, Next.js and front-end libraries such as MUI, Fontawesome Icons to create tools for users to enhance their journey from scratch supporting Mobile and Desktop Users.',
     tags: ['React', 'Next.js', 'Tailwind', 'MUI', 'Single Page Application'],
-    // imageUrl: ,
+    imageUrl: anish,
   },
   {
     title: 'AWS Facial Recognition ',
     description:
       'Created a community website for Amazon Games published game Lost Ark, over 1 million page views and 10,000 users monthly. Utilizing React, Next.js and front-end libraries such as MUI, Fontawesome Icons to create tools for users to enhance their journey from scratch supporting Mobile and Desktop Users.',
     tags: ['React', 'Next.js', 'Tailwind', 'MUI', 'Single Page Application'],
-    // imageUrl: ,
+    imageUrl: anish,
   },
 
 ] as const;
