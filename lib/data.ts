@@ -77,36 +77,42 @@ export const projectsData = [
   {
     title: 'Rogue Media Capstone Project',
     description:
-      'Displays currently available or newly released dates for NEXUS Interviews. Reducing wait times by up to ~90% by allowing users to secure cancelled or postponed interviews quickly.',
+      'Created a Django website for Rogue Media to give them data analytics on their users using Python and Django.',
     tags: ['Python', 'Django'],
     imageUrl: anish,
   },
   {
     title: 'Price Comparison Web Scraper',
     description:
-      'Created a community website for Amazon Games published game Lost Ark, over 1 million page views and 10,000 users monthly. Utilizing React, Next.js and front-end libraries such as MUI, Fontawesome Icons to create tools for users to enhance their journey from scratch supporting Mobile and Desktop Users.',
-    tags: ['React', 'Next.js', 'Tailwind', 'MUI', 'Single Page Application'],
+      'Created a Python web scraper that allows users to search for an item across the internet. This sorts the data according to the lowest price or alphabetically for the user which is displayed on my flask website.',
+    imageUrl: anish,
+  },
+  {
+    title: 'Chess Opening Move Search Engine',
+    description:
+      'Created a Python chess search engine that allows users to search various openings from a real Lichess database using search engine optimization practices. Integrated with a GUI using PyQt5',
+    tags: ['Python', 'Qt'],
     imageUrl: anish,
   },
   {
     title: '2D Asteroid Mobile Game',
     description:
-      'Created a community website for Amazon Games published game Lost Ark, over 1 million page views and 10,000 users monthly. Utilizing React, Next.js and front-end libraries such as MUI, Fontawesome Icons to create tools for users to enhance their journey from scratch supporting Mobile and Desktop Users.',
-    tags: ['React', 'Next.js', 'Tailwind', 'MUI', 'Single Page Application'],
+      'Created an original take on the classic Asteroid game using Unity 2D and C# scripts. Includes multiple enemies AI with patterns, art assets, and sound assets.',
+    tags: ['C#, Unity'],
     imageUrl: anish,
   },
   {
     title: 'Movie Rating Application',
     description:
-      'Created a community website for Amazon Games published game Lost Ark, over 1 million page views and 10,000 users monthly. Utilizing React, Next.js and front-end libraries such as MUI, Fontawesome Icons to create tools for users to enhance their journey from scratch supporting Mobile and Desktop Users.',
-    tags: ['React', 'Next.js', 'Tailwind', 'MUI', 'Single Page Application'],
+      'Created a movie rating application in which users can log in and rate various movies and keep a sorted list of movies.',
+    tags: ['Java', 'JavaFX', 'XAMPP', 'Scene Builder'],
     imageUrl: anish,
   },
   {
     title: 'AWS Facial Recognition ',
     description:
-      'Created a community website for Amazon Games published game Lost Ark, over 1 million page views and 10,000 users monthly. Utilizing React, Next.js and front-end libraries such as MUI, Fontawesome Icons to create tools for users to enhance their journey from scratch supporting Mobile and Desktop Users.',
-    tags: ['React', 'Next.js', 'Tailwind', 'MUI', 'Single Page Application'],
+      'Created a facial recognition system, using python and a raspberry pi attached to a camera to produce a high confidence interval to recognize faces',
+    tags: ['Python, AWS'],
     imageUrl: anish,
   },
 
@@ -115,21 +121,18 @@ export const projectsData = [
 export const skillsData = [
   'HTML',
   'CSS',
-  'JavaScript',
-  'TypeScript',
-  'React',
-  'Next.js',
-  'Java',
+  'C++',
+  'C#',
   'Python',
+  'Devops',
+  'Java',
+  'VB',
   'Data Structures and Algorithms',
   'Git',
-  'Tailwind',
-  'GraphQL',
+  'Scrum',
+  'Leadership',
   'Leetcode',
-  'Artificial Intelligence',
-  'REST APIs',
   'Object-Oriented Programming',
   'Software Development Life Cycle',
-  'MySQL',
-  'Salesforce',
+  'Databases',
 ] as const;

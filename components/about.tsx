@@ -19,40 +19,38 @@ export default function About() {
     >
       <SectionHeading>About me</SectionHeading>
       <p className="mb-3">
-        My journey into the world of coding began in the summer of 2008, sparked
-        by a passion for browser games and a desire to enhance my gaming
-        experience. As an elementary school student, I taught myself Visual
-        Basic 6 to create game trainers, allowing me to save progress in games
-        that lacked built-in save features. This early experience ignited a
-        lifelong fascination with programming and problem-solving.
+        My journey in software engineering began with a deep curiosity about how technology shapes our world.
+        Over the years, I’ve honed my skills in various programming languages and frameworks, and I’m eager
+        to continue learning and contributing to innovative projects. I started from simple text based rpg's for fun
+        as a kid in python and continously built my skills to build more impressive projects.
       </p>
 
       <p className="mb-3">
-        Fast forward to today, and I've transformed that childhood curiosity
-        into a professional career. I've earned a degree in{" "}
-        <span className="font-medium">Computer Science</span>, honing my skills
-        and deepening my understanding of software development. What I love most
-        about programming is the thrill of solving complex problems - it's like
-        putting together a puzzle where you create the pieces yourself. That
-        moment when everything clicks into place is truly exhilarating..
+        Today, I have turned that fun interest into my career. I've earned a bachelors in{" "}
+        <span className="font-medium">Computer Information systems </span>, to elevate my skills
+        in engineering. I love the satisfaction that is rewarded to solving a complex problem. Its 
+        an addictive loop where I am only satisfied by improving my self and my skills and watching myself
+        flourish.
       </p>
 
       <p className="mb-3">
         I'm constantly seeking to expand my knowledge and stay at the forefront
-        of technology. My passion extends to open-source software development,
-        where I find immense satisfaction in contributing to projects that make
-        people's lives easier, inspire creativity, and bring joy to users
-        worldwide.
+        of technology. I enjoy making personal projects which are affiliated with my interests.
+        I have a Chess opening move search engine, and have made a few games in unity for both 
+        mobile and PC just for fun. 
       </p>
 
       <p>
-        Outside of coding, I'm an avid gamer, movie enthusiast, and proud dog
-        owner. I believe in maintaining a healthy work-life balance and
-        nurturing diverse interests. My current goal is to travel the world,
-        experiencing different cultures and drawing inspiration from the beauty
-        and diversity our planet has to offer. This aspiration not only enriches
-        my personal life but also broadens my perspective as a developer,
-        allowing me to create more inclusive and globally-minded solutions.
+        Outside of coding, I enjoy playing strategy games, playing badminton, and other spots. 
+        I believe that variety is the spice of life, and love to change up my hobbies and approaches.
+        My current goal is to work at a company where I can grow and make lifetime bonds with my teammates.
+        I believe that a strong team can accomplish anything and sharing knowledge is the best way to 
+        accelerate learning. 
+      </p>
+
+      <p>
+      Feel free to explore my projects, check out the resources I’ve compiled, and connect with me if you have any opportunities 
+      or collaboration ideas. Let’s connect and see how we can work together!
       </p>
     </motion.section>
   );
