@@ -91,6 +91,7 @@ export const projectsData = [
     title: 'Price Comparison Web Scraper',
     description:
       'Created a Python web scraper that allows users to search for an item across the internet. This sorts the data according to the lowest price or alphabetically for the user which is displayed on my flask website.',
+      tags: ['Python', 'Beautiful Soup'],
     imageUrl: webscrape,
   },
   {
@@ -104,7 +105,7 @@ export const projectsData = [
     title: '2D Asteroid Mobile Game',
     description:
       'Created an original take on the classic Asteroid game using Unity 2D and C# scripts. Includes multiple enemies AI with patterns, art assets, and sound assets.',
-    tags: ['C#, Unity'],
+    tags: ['C#', 'Unity'],
     imageUrl: asteroid,
   },
   {
