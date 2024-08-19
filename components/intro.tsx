@@ -61,7 +61,6 @@ export default function Intro() {
         <span className="font-bold">Hello, I'm Anish.</span> I'm a <span className="font-bold">Software Engineer</span> with{' '}
         <span className="font-bold">over 2 years</span> of experience. I enjoy building <span className="italic">software applications</span>. I am a{' '}
         <span className="underline">Software Engineer</span>
-        <FaTiktok className="inline-block ml-2" />
       </motion.h1>
 
       <motion.div
