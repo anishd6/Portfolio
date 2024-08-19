@@ -34,7 +34,7 @@ export default function About() {
         and deepening my understanding of software development. What I love most
         about programming is the thrill of solving complex problems - it's like
         putting together a puzzle where you create the pieces yourself. That
-        moment when everything clicks into place is truly exhilarating.
+        moment when everything clicks into place is truly exhilarating..
       </p>
 
       <p className="mb-3">
