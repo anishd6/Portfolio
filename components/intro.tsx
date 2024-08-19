@@ -27,7 +27,7 @@ export default function Intro() {
             }}
           >
             <Image
-              src="https://imgur.com/a/x-7qzj5fO"
+              src="https://i.imgur.com/AeL30YX.jpeg"
               alt="Ricardo portrait"
               width="192"
               height="192"
