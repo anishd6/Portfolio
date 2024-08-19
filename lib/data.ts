@@ -2,12 +2,12 @@ import React from 'react';
 import { FaReact, FaSalesforce, FaTiktok } from 'react-icons/fa';
 import { LuGraduationCap } from 'react-icons/lu';
 import anish from '@/public/anish.png';
-import rogue from '@/public/Rogue.jpg';
-import webscrape from '@/public/webscrape.jpg';
-import lichess from '@/public/lichess.jpg';
-import asteroid from '@/public/asteroids.jpg';
-import java from '@/public/java.jpg';
-import aws from '@/public/aws.jpg';
+import rogue from '@/public/Rogue';
+import webscrape from '@/public/webscrape';
+import lichess from '@/public/lichess';
+import asteroid from '@/public/asteroids';
+import java from '@/public/java';
+import aws from '@/public/aws';
 
 export const links = [
   {
